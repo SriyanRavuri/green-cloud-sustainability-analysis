@@ -1,0 +1,9 @@
+region_id,provider,country,grid_intensity_g_per_kwh,cfe_pct,eu_residency,recommendation_score,notes
+gcp:europe-north1,gcp,FI,79,97,yes,9.5,Top pick — lowest intensity in EU + highest CFE + per-region transparency
+aws:eu-north-1,aws,SE,42,96,yes,9.3,Lowest absolute intensity; CFE % indirect via market matching
+gcp:europe-west4,gcp,NL,328,82,yes,7.8,High CFE despite mid-range grid; data residency NL
+azure:northeurope,azure,IE,287,72,yes,7.2,Strong reporting; grid intensity higher than Nordics
+aws:eu-west-1,aws,IE,287,72,yes,7.0,Same Irish grid as Azure NE; AWS reporting lags
+azure:westeurope,azure,NL,328,68,yes,6.8,Same NL grid; tooling strong
+gcp:europe-west1,gcp,BE,166,90,yes,8.2,Good middle option; strong CFE
+aws:eu-west-3,aws,FR,24,80,yes,9.0,Very low intensity (FR nuclear); reporting maturity moderate

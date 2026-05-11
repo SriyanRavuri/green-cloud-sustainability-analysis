@@ -1,0 +1,8 @@
+criterion,what_it_requires,aws_score,azure_score,gcp_score,notes
+eu_code_of_conduct_dc,Compliance with EU Code of Conduct for DC Energy Efficiency,3,3,3,All three have facilities accredited
+pue_disclosure,Documented and reduced PUE,3,3,3,All publish global PUE; some publish regional
+refrigerant_gwp,Refrigerants below GWP thresholds,2,2,3,GCP publishes most detail on cooling
+energy_water_disclosure,Disclosure of energy and water consumption,2,3,3,Microsoft publishes water by region; Google by region; AWS aggregate
+dnsh_circular_economy,Hardware refurbishment / e-waste,2,2,3,Google has the most detailed circular hardware program disclosure
+dnsh_pollution,Diesel backup runtime disclosure,1,2,2,Limited disclosure across all three
+customer_data_for_reporting,Per-region data sufficient for customer's own taxonomy reporting,2,3,3,AWS region coverage incomplete
