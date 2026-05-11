@@ -1,7 +1,0 @@
-scope_category,what_a_customer_needs,aws_score,azure_score,gcp_score,notes
-scope1_visibility,Provider Scope 1 emissions disclosed and assured,3,3,3,Provider's own direct emissions; relevant for full upstream view
-scope2_location_based,Per-account location-based kgCO2,2,3,3,GCP and Azure expose per-project; AWS by region only
-scope2_market_based,Per-account market-based kgCO2,2,3,3,Required for Scope 2 GHG Protocol dual reporting
-scope3_cat1_attribution,Cloud spend allocated to customer Scope 3 Cat 1,2,3,2,Microsoft most granular
-reporting_lag,Time from period end to data availability,1,3,3,AWS 3 months; Azure ~30 days; GCP near-real-time
-audit_trail,Methodology versioning + change log,2,2,3,GCP publishes versioned methodology
